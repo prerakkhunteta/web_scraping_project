@@ -1,5 +1,5 @@
-# web_scraping_project
-# Web Scraping Projects
+
+# Web Scraping Project
 
 This repository contains web scraping scripts for various e-commerce and product comparison websites.
 
